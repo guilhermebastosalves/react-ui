@@ -1,0 +1,12 @@
+{
+  "employee": [
+    {
+      "empid": 2,
+      "name": "testando",
+      "email": "teste@teste",
+      "phone": "123456789",
+      "active": true,
+      "id": 2
+    }
+  ]
+}
