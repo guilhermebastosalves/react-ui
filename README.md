@@ -6,6 +6,8 @@ O sistema oferece uma tela de listagem principal, onde os dados registrados na A
 
 A comunicação com a API mock é feita por requisições HTTP (GET, POST, PUT, DELETE) utilizando a função fetch, permitindo a simulação de um CRUD completo. Os dados são persistidos no arquivo db.json, que funciona como um banco de dados local para fins de desenvolvimento.
 
+Esta aplicação simula a UI de uma empresa fictícia, na qual um gerente pode cadastrar e editar informações de seus funcionários, além de poder desativá-los do sistema, ou até mesmo excluí-los.
+
 ---
 ## 🧰 Tecnologias Utilizadas
 
