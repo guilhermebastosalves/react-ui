@@ -44,7 +44,7 @@ cd react-ui
 npm install
 
 # Inicie o json-server
-npx json-server --watch db.json
+json-server --watch db.json --port 8000
 
 # Inicie a aplicação React
 npm run dev
